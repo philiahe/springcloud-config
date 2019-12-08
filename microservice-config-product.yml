@@ -2,7 +2,7 @@ spring:
   profiles:
     active: dev
 ---
---09点40分
+--09点59分
 server:
   port: 8001
 mybatis:
